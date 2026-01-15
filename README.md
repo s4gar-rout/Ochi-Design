@@ -11,7 +11,7 @@ A visually rich and animation-focused landing page inspired by **Ochi.design**, 
 ## 🎥 Preview Video
 
 ### 🖥️ Smooth Scroll & Interactive Animations
-
+https://github.com/user-attachments/assets/48594f8c-907e-49d9-9805-029164d74d29
 
 > Demonstrates smooth scrolling with Locomotive Scroll, Framer Motion animations, and the interactive eye-tracking effect.
 
